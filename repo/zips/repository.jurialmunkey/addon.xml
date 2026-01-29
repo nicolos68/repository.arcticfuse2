@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.jurialmunkey" name="jurialmunkey Alpha Repository" version="3.5" provider-name="jurialmunkey">
-    <extension point="xbmc.addon.repository" name="jurialmunkey Alpha Repository">
+<addon id="repository.arcticfuse2.custom" name="arcticfuse2 Repository" version="1.0" provider-name="nicoQLF68">
+    <extension point="xbmc.addon.repository" name="arcticfuse2 Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/repo/zips/</datadir>
         </dir>
         <dir minversion="19.9.1" maxversion="20.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/nexusrepo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jnicolos68/repository.arcticfuse2/main/nexusrepo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/nexusrepo/zips/</datadir>
         </dir>
         <dir minversion="20.9.1">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/omega/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/omega/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/omega/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>jurialmunkey Alpha Repository</summary>
-        <description>A repository for alpha releases of jurialmunkey's skins.</description>
-        <disclaimer></disclaimer>
+        <summary>nicoQLF68 Repository</summary>
+        <description>A repository for alpha releases of nicoQLF68's skins.</description>
+        <disclaimer />
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>

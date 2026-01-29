@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.arcticfuse2" name="nicoQLF68 Repository" version="1.0" provider-name="nicoQLF68">
+<addons><addon id="repository.arcticfuse2.custom" name="arcticfuse2 Repository" version="1.0" provider-name="nicoQLF68">
     <extension point="xbmc.addon.repository" name="arcticfuse2 Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/nicolos68/repository.arcticfuse2/main/repo/zips/addons.xml</info>
